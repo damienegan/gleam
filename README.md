@@ -22,36 +22,38 @@ gleam provides just want is needed to help create and maintain new solutions ove
 
 gleam is built on the following core:
 
-EA Principles 
-EA Guidance
-EA Domains
+* EA Principles 
+* EA Guidance
+* EA Domains
 
-EA Principles
-Drive architecture based on business needs.
-Ensure business continuity
-Redesign business processes before solution design
-Treat information as a valuable organizational asset
-Ensure information security, privacy and confidentiality
-Use common global solutions
-Use proven standards and technologies
-Design application programming interfaces and inter-operable solutions
-Design and build solutions according to our enterprise architecture guidance
-Design solutions with a cloud first, mobile first mindset
+# EA Principles
+* Drive architecture based on business needs
+* Ensure business continuity
+* Redesign business processes before solution design
+* Treat information as a valuable organizational asset
+* Ensure information security, privacy and confidentiality
+* Use common global solutions
+* Use proven standards and technologies
+* Design application programming interfaces and inter-operable solutions
+* Design and build solutions according to our enterprise architecture guidance
+* Design solutions with a cloud first, mobile first mindset
 
-EA Guidance
-Quality Pillars
-Master Data Management
-Solution Design Guidelines
-Architectural Styles
-Design Patterns
-Reference Models
-API Design Guidelines
-Twelve Factors for modern cloud applications
+# EA Guidance
+* Quality Pillars
+* Master Data Management
+* Solution Design Guidelines
+* Architectural Styles
+* Design Patterns
+* Reference Models
+* API Design Guidelines
+* Twelve Factors for modern cloud applications
 
-EA Domains
-Business Architecture
-Solution Architecture
-Digital Architecture
+# EA Domains
+* Business Architecture
+* Solution Architecture
+* Digital Architecture
 
+The Business Architecture supplies the Solution Architecture with high-level requirements.
+The Solution Architecture uses the Digital Architecture to provide a solution to the business.
 
 
