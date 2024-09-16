@@ -53,7 +53,10 @@ gleam is built on the following core:
 * Solution Architecture
 * Digital Architecture
 
-The Business Architecture supplies the Solution Architecture with high-level requirements.
-The Solution Architecture uses the Digital Architecture to provide a solution to the business.
+# Combining the Principles, Guidelines and Domains
+* The Business Architecture supplies the Solution Architecture with high-level requirements.
+* The Digital Architecture is continuously built and improved from a number of artefacts, either from establised policies, standards and guidelines and/or from improved outputs from new solutions, services and products. 
+* The Solution Architecture combines the EA Principles and Guidleines with the Business Architecture and the Digital Architecture to provide a solution to the business. Solutions can be delivered through a Project and Portfolio Management Practice, usually contributing to a Solutions Portfolio and Service Catalogue.
+* The various elements of the Digital Architecture are independent components and can change over time. The various elements of the EA Guidance will also update and change over time. The EA principles remain mostly constant.
 
 
